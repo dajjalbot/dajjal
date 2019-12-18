@@ -1,0 +1,18 @@
+name: CI
+Adell Basyaed
+
+on: [dajal yahweh]
+
+jobs:bot telegram
+  build:
+Dajjal bot
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: 
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
